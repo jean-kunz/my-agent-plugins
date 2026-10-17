@@ -1,0 +1,25 @@
+{
+  "name": "my-agent-plugins",
+  "owner": {
+    "name": "Jean Kunz",
+    "email": "jean.kunz@gmail.com"
+  },
+  "metadata": {
+    "description": "Agent plugins that make model output easier to understand.",
+    "pluginRoot": "plugins"
+  },
+  "plugins": [
+    {
+      "name": "readable-docs",
+      "source": "readable-docs",
+      "description": "Write documentation a reader can understand on the first pass, in a softened ASD-STE100 style.",
+      "keywords": [
+        "documentation",
+        "readability",
+        "asd-ste100",
+        "simplified-technical-english"
+      ],
+      "category": "Documentation"
+    }
+  ]
+}

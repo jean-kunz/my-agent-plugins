@@ -1,0 +1,19 @@
+{
+  "name": "readable-docs",
+  "displayName": "Readable docs",
+  "version": "1.0.0",
+  "description": "Write documentation a reader can understand on the first pass, in a softened ASD-STE100 style.",
+  "author": {
+    "name": "Jean Kunz",
+    "email": "jean.kunz@gmail.com"
+  },
+  "repository": "https://github.com/jean-kunz/my-agent-plugins",
+  "license": "MIT",
+  "keywords": [
+    "documentation",
+    "readability",
+    "asd-ste100",
+    "simplified-technical-english"
+  ],
+  "category": "Documentation"
+}
